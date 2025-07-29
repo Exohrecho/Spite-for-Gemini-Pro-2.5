@@ -5,11 +5,7 @@ MAKE SURE TO ALWAYS READ BEFORE ENABLING OR DISABLING!
 
 # PLANS
 
-- Add Language Changer
-- Add NSFW options and toggles
-- Add more perspectives
-- Add Main Prompt Assists
-- Add 'Add-on' toggles for some settings (response lenght, perspective, reasoning, formatting, main prompt assist)
-- Add Styles
-- Add more Difficulty toggles + add-ons
-- Add more Modules
+- ~~Add Language Changer~~
+- ~~Add NSFW options and toggles~~
+- ~~Add Main Prompt Assists~~
+- ~~Add more Modules~~
