@@ -1,0 +1,1 @@
+<NSFW>, <Response_Length>, <Perspective>, <Difficultly>, <IMPORTANT>, <Grounded_Realism>, <Realism_Psychological>, <Logical_Realism>, <VIOLENCE_REALISM>, <Social_Realism>, <Physiological>, <Plot_Pacing>, <Interaction>, <narrative_dynamics>, <Formatting>, <Banned_Words>, <Style>
